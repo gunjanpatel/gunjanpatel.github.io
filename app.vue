@@ -23,3 +23,9 @@ nuxtApp.provide(
   }
 )
 </script>
+<style>
+pre {
+  background-color: #1e293b;
+  padding: 1em;
+}
+</style>
