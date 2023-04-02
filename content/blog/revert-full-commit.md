@@ -6,7 +6,6 @@ imageUrl: https://images.unsplash.com/photo-1647166545674-ce28ce93bdca?ixlib=rb-
 alt: Revert the full commit
 date: 2nd April 2023 
 layout: blog
-gistUrl: https://gist.github.com/gunjanpatel/18f9e4d1eb609597c50c2118e416e6a6.js
 tags:
   - Git
 ---
