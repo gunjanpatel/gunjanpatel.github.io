@@ -27,5 +27,26 @@ nuxtApp.provide(
 pre {
   background-color: #1e293b;
   padding: 1em;
+  margin: 1em 0 1em 0;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 20px;
+}
+h5 {
+  font-size: 18px;
+}
+h2, h3, h4, h5
+{
+  margin-bottom: .5em;
+  font-weight: bold;
+}
+hr {
+  margin: 1em 0 1em 0;
 }
 </style>
