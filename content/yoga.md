@@ -1,5 +1,5 @@
 ---
 title: Yoga
-show_heading: true
+show_heading: false
 ---
 
