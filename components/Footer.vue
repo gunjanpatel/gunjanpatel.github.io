@@ -1,14 +1,16 @@
 <template>
   <footer class="py-6">
-    <div class="container mx-auto px-4">
-      <div class="flex justify-between items-center">
-        <p class="text-gray-400">&copy; {{ new Date().getFullYear() }} GunjanPatel.info</p>
-        <div class="text-gray-400 text-center">
-          <p>वसुधैव कुटुम्बकम्</p>
-          <p class="text-xs italic">(Vasudhaiva Kutumbakam)</p>
-          <p class="text-xs italic">(The world is one family)</p>
-        </div>
-        <div class="flex items-center">
+    <div class="grid grid-cols-3 gap-4 px-4 text-gray-400">
+      <div class="order-2 col-span-2">
+        &copy; {{ new Date().getFullYear() }} GunjanPatel.info
+      </div>
+      <div class="col-span-3 order-1 justify-self-center text-center">
+        <p>वसुधैव कुटुम्बकम्</p>
+        <p class="text-xs italic">(Vasudhaiva Kutumbakam)</p>
+        <p class="text-xs italic">(The world is one family)</p>
+      </div>
+      <div class="order-3 col-span-1 justify-self-end">
+        <div class="flex items-end">
           <a href="https://www.linkedin.com/in/jgunjanpatel/" target="_blank"
              class="ml-6 text-gray-400 hover:text-gray-500">
             <span class="sr-only">LinkedIn</span>
@@ -36,5 +38,4 @@
       </div>
     </div>
   </footer>
-
 </template>
