@@ -1,5 +1,5 @@
 <template>
-  <footer class="py-6">
+  <footer class="py-6 bg-slate-900">
     <div class="grid grid-cols-3 gap-4 px-4 text-gray-400">
       <div class="order-2 col-span-2">
         &copy; {{ new Date().getFullYear() }} GunjanPatel.info
