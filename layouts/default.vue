@@ -1,5 +1,5 @@
 <template>
-  <div class="max-w-2xl px-4 py-10 m-auto bg-white sm:px-8 sm:shadow dark:bg-slate-900 ring-1 ring-gray-200 dark:ring-gray-700 sm:rounded-lg dark:text-white">
+  <div class="max-w-2xl px-4 py-10 m-auto bg-white sm:px-8 sm:shadow dark:bg-slate-900 sm:rounded-lg dark:text-white">
     <main class="max-w-none">
       <slot />
     </main>

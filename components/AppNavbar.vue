@@ -4,7 +4,7 @@ const appConfig = useAppConfig()
 </script>
 
 <template>
-  <div class="flex justify-between max-w-2xl px-4 py-4 mx-auto sm:px-8">
+  <div class="flex justify-between max-w-2xl px-4 py-4 mx-auto sm:px-8 border-b border-slate-700">
     <!-- Navigation -->
     <div class="text-primary-700 dark:text-primary-200">
       <NuxtLink
