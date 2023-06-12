@@ -2,7 +2,7 @@
 title: About Me
 show_heading: true
 ---
-I am Joomler from Ahmedabad, Gujarat, India. 
+I am Joomler from Copenhagen, Denmark. 
 Active contributor and volunteer of Joomla! Project. 
 
 Among those Joomla! 
