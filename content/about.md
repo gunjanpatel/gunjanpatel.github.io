@@ -3,7 +3,7 @@ title: About Me
 show_heading: true
 ---
 I am Joomler from Copenhagen, Denmark. 
-Active contributor and volunteer of Joomla! Project. 
+I was an Active contributor and volunteer of Joomla! Project. 
 
 Among those Joomla! 
 - Bug Squad member, 
