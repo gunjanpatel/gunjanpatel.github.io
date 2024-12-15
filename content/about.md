@@ -3,7 +3,7 @@ title: About Me
 show_heading: true
 ---
 # I am Joomler from Copenhagen, Denmark. 
-I was an Active contributor and volunteer of Joomla! Project. 
+I was an Active contributor and volunteer of Joomla! Project.
 
 Among those Joomla! 
 - Bug Squad member, 
@@ -18,3 +18,4 @@ You will always find me excited to talk about Joomla! and J!Community, always re
 Apart from professional life I am also Chairman of RBL Edifice - Co. Operative Housing Service Society. 
 
 When I am not volunteering you may find me doing Swimming, Biking, hangout with friends and Travelling with my loving wife.
+Currently I am not active in the community. 
