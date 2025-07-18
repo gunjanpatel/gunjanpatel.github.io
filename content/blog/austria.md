@@ -1,3 +1,14 @@
+---
+title: Austria Tourist Places
+show_heading: true
+description: Travel.
+imageUrl: https://images.unsplash.com/photo-1597086831879-756db15e81d3?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=250&q=80
+alt: Austria Touris Places
+date: 2nd April 2025
+layout: blog
+tags:
+  - Travel
+---
 # 1
 TS Hotel
 Breslauer Str. 9, 83313 Siegsdorf, Germany
